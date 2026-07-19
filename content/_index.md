@@ -3,7 +3,7 @@ title: "Welcome to Sma' Glen"
 draft: false
 ---
 
-# Welcome to Sma' Glen
+# Welcome
 
 ## Specialist clinical psychology
 
