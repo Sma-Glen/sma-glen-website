@@ -19,5 +19,11 @@ disableKinds = ["RSS"]
         url = "/"
         weight = 10
 
+    [[menu.main]]
+        identifier = "about"       # A unique, lowercase word for this item
+        name = "About"             # The text that will actually show in the menu
+        url = "/about/"            # The path to your page (must match the folder/file name)
+        weight = 20
+
 [author]
     name = "Joe Hickey"
