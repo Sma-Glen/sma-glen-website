@@ -3,11 +3,9 @@ title: "About"
 draft: false
 ---
 
-# About me
+I'm a clinical psychologist with ten years of NHS experience in Child and Adolescent Mental Health Services (CAMHS), adult mental health and clinical research in Scotland and England. 
 
 ## Qualifications
-
-I'm a clinical psychologist with ten years of NHS experience in Child and Adolescent Mental Health Services (CAMHS), adult mental health and clinical research in Scotland and England. 
 
 I'm member of the Association of Clinical Psychologists, registered with the Health and Care Professions Council.
 
