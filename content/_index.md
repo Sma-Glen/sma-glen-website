@@ -3,9 +3,9 @@ title: "Welcome to Sma' Glen"
 draft: false
 ---
 
-# Welcome to Sma' Glen Psychology
+# Welcome to Sma' Glen
 
-### Specialist clinical psychology for young people and adults
+## Specialist clinical psychology
 
 - Assessment
 - Therapy
