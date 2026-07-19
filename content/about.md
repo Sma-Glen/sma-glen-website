@@ -7,7 +7,7 @@ I'm a clinical psychologist with ten years of NHS experience in Child and Adoles
 
 ## Qualifications
 
-I'm member of the Association of Clinical Psychologists, registered with the Health and Care Professions Council.
+I'm a member of the Association of Clinical Psychologists, registered with the Health and Care Professions Council.
 
 I'm qualified to supervisor level in interpersonal psychotherapy for adolescents (IPT-A) and registered with IPT-UK. 
 
