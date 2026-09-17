@@ -26,10 +26,16 @@ disableKinds = ["RSS"]
         weight = 20
 
     [[menu.main]]
+        identifier = "docs"       # A unique, lowercase word for this item
+        name = "Docs"             # The text that will actually show in the menu
+        url = "/docs/"            # The path to your page (must match the folder/file name)
+        weight = 30
+
+    [[menu.main]]
         identifier = "contact"       # A unique, lowercase word for this item
         name = "Contact"             # The text that will actually show in the menu
         url = "/contact/"            # The path to your page (must match the folder/file name)
-        weight = 30
+        weight = 40
 
 [author]
     name = "Joe Hickey"
