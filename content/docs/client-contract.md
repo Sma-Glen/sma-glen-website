@@ -5,8 +5,6 @@ lastmod: 2026-09-17
 type: "docs"
 ---
 
-**Effective Date: 17 September 2026**
-
 ### Introduction
 This contract sets out Sma’ Glen Psychology’s terms and conditions of service.
 
