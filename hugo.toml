@@ -6,6 +6,7 @@ theme = "PaperMod"
 disableKinds = ["RSS"]
 
 [params]
+    mainSections = [""]
     defaultTheme = "auto" # or dark, light
     ShowShareButtons = false
     ShowReadingTime = false
