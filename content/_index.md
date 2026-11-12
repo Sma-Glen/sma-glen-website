@@ -1,9 +1,8 @@
 ---
+layout: page
 title: "Welcome to Sma' Glen"
 draft: false
 ---
-
-# Welcome
 
 ## Specialist clinical psychology
 
