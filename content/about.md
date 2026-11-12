@@ -2,6 +2,7 @@
 title: "About"
 draft: false
 ---
+
 ## Dr Joe Hickey
 
 I'm a clinical psychologist with ten years of NHS experience in Child and Adolescent Mental Health Services (CAMHS), adult mental health and clinical research in Scotland and England. 
