@@ -1,3 +1,8 @@
 body {
       font-family: 'Jost', sans-serif;
   }
+
+  .post-content h1 {
+    margin-top: 32px !important;
+    margin-bottom: 24px !important;
+}
